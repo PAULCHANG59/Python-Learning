@@ -21,7 +21,7 @@ print("您好，" + name)
 
 def calculate_remain(amount, cancel_amount):
     remain_amount = amount - cancel_amount
-    print(remain_amount)
+    print("實際金額:",remain_amount)
 
 calculate_remain(100000, 30000)
 
