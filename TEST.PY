@@ -42,6 +42,8 @@ print(today)
 
 print("Git pull test")
 
+print("This is dev branch")
+
 #/*
 #psycopg
 # Python 連接 PostgreSQL
