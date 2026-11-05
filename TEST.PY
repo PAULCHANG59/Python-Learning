@@ -40,6 +40,8 @@ today = datetime.date.today()
 
 print(today)
 
+print("Git pull test")
+
 #/*
 #psycopg
 # Python 連接 PostgreSQL
